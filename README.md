@@ -5,6 +5,7 @@ Feature:
 2. Signup
 3. Verification Token
 4. Get New Token
+5. Initial SocketIO Configuration under main server
 
 what are included?
 
@@ -14,6 +15,7 @@ what are included?
 4. Dotenv
 5. Bcrypt (for password)
 6. Jsonwebtoken (with options)
+7. Initial SocketIO
 
 
 what are not included? 
